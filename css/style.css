@@ -19,7 +19,7 @@ h1 {
   margin: 8px 8px 8px 8px !important; 
   background-color: rgb(234, 153, 209) !important;
 	color: hsl(305, 100%, 30%) !important;
-	padding: 40px !important;
+	padding: 100px !important;
 	text-align: center !important;
   border-style: solid !important;
   border-width: 2px !important;
@@ -51,7 +51,7 @@ h3 {
   colour: #006607 !important;
   background-color: #b8f4e2 !important;
   padding: 20px !important;
-  width: 60% !important;
+  width: 80% !important;
   font-size: 21px !important;
 }
 
